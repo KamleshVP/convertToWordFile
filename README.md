@@ -5,6 +5,7 @@ Program for converting numeric value to word.
 ## Installation
 
 Use Eclipse or notepad++ with jdk version 1.8v.
+Goto convertToWordFile click on it after that click on src folder and then select convertToWord.java file to view code.
 
 ```
 install eclipse
