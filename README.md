@@ -19,7 +19,7 @@ Expected Output - Rs. One Lakh Twenty Three Thousand Four Hundred And Fifty Six 
 
 ## Contributing
 
-Fisrt Run the program in eclise after that enter value then click enter Button.
+Fisrt Run the program in Eclipse after that enter value then click enter Button.
 Please make sure to update tests as appropriate.
 
 ## Licence
